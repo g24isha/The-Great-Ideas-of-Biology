@@ -1,0 +1,33 @@
+>Ptychadena newtoni, Sao Tome
+--------gcctgcccggtgac-acagtttaacggccgcggtatcctgaccgtgcaaagg
+tagcataatcacttgttctttaaatgaggactagaatcaacggcatcacgagggtcttac
+tgtctcccccctctaatcagtgaaactgatctccccgtgaagaagcggggataaaaatat
+aagacgagaagaccccatggagctttaagctcaacaaatactctttttcaccaacctcac
+atatct-gagaatctacttgttagctttaggttggggtgaccacggagtaaaactcaacc
+tccataatgaaaagaataaaatcctaatctatgagct-acgcctctaagaatcaataaat
+tgacataaaatgacccgaca--------cttcgatcaatgaaccaagttaccctggggat
+aacagcgccatccacttcgagagcccctatcgacaagtgggtttacgacctcgatgttgg
+atcagggtgtcccagtggtgcagccgctactaaaggttcgtttgttcaacgattaaaacc
+ct-------------
+>Ptychadena newtoni, Sao Tome
+--------------------------gtttaacggccgcggtatcctgaccgtgcaaagg
+tagcataatcacttgttctttaaatgaggactagaatcaacggcatcacgagggtcttac
+tgtctcccccctctaatcagtgaaactgatctccccgtgaagaagcggggataaaaatat
+aagacgagaagaccccatggagctttaagctcaacaaatactctttttcaccaacctcac
+atatct-gagaatctacttgttagctttaggttggggtgaccacggagtaaaactcaacc
+tccataatgaaaagaataaaatcctaatctatgagct-acgcctctaagaatcaataaat
+tgacataaaatgacccgaca--------cttcgatcaatgaaccaagttaccctggggat
+aacagcgccatccacttcgagagcccctatcgacaagtgggtttacgacctcgatgttgg
+atcagggtgtcccagtggtgcagccgctactaaaggttcgtttgttcaacgattaaaacc
+ct-------------
+>Ptychadena newtoni, Sao Tome
+--------gcctgcccggtgac-acagtttaacggccgcggtatcctgaccgtgcaaagg
+tagcataatcacttgttctttaaatgaggactagaatcaacggcatcacgagggtcttac
+tgtctcccccctctaatcagtgaaactgatctccccgtgaagaagcggggataaaaatat
+aagacgagaagaccccatggagctttaagctcaacaaatactctttttcaccaacctcac
+atatct-gagaatctacttgttagctttaggttggggtgaccacggagtaaaactcaacc
+tccataatgaaaagaataaaatcctaatctatgagct-acgcctctaagaatcaataaat
+tgacataaaatgacccgaca--------cttcgatcaatgaaccaagttaccctggggat
+aacagcgccatccacttcgagagcccctatcgacaagtgggtttacgacctcgatgttgg
+atcagggtgtcccagtggtgcagccgctactaaaggttcgtttgttcaacgattaaaacc
+ct-------------
